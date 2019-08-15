@@ -5,7 +5,9 @@ node_modules
 # local env files
 .env.local
 .env.*.local
-
+package-lock.json
+Dockerfile
+.dockerignore
 # Log files
 npm-debug.log*
 yarn-debug.log*
